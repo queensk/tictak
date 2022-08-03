@@ -1,3 +1,3 @@
-# tictak
+# Tictak
 tictactoe
- this is a simple tic tac toe game made from js, css and html.
+ This is a simple tic tac toe game made from js, css and html.
